@@ -1,7 +1,7 @@
 ```markdown
 # 📊 First Dashboard - Power BI Sales Analytics
 
-An end-to-end Power BI analytics project designed to analyze regional sales performance, product revenue, and operational demand trends.
+An end-to-end Power BI analytics project designed to analyze regional sales performance, product revenue, and operational demand trends. 
 
 ---
 
