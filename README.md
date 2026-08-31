@@ -14,6 +14,7 @@ This dashboard provides executive leadership and sales managers with clear insig
 
 ---
 
+
 ## 📊 Key Business Metrics & Insights
 
 * **Total Revenue Generated:** **$545.23K** achieved in gross sales across key operational regions.
