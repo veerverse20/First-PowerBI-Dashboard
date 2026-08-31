@@ -11,6 +11,7 @@ This dashboard provides executive leadership and sales managers with clear insig
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
+
 ---
 
 ## 📊 Key Business Metrics & Insights
